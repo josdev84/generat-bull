@@ -36,4 +36,4 @@ const bubleMaker = () => {
   }, 8000);
 };
 
-setInterval(bubleMaker, 1000);
+setInterval(bubleMaker, 400);
